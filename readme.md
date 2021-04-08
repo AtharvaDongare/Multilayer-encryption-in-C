@@ -1,0 +1,1 @@
+The code provides an encryption as well as decryption system, for strings, with multiple encryption algorithms such as ceaser cipher and RSA. It also provides other security protection such as passwords. 
